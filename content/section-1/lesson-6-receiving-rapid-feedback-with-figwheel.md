@@ -173,6 +173,7 @@ The `append-element` function is definitely not idempotent because the effect wi
 
 #### You Try It
 
+- The code block below doesn't get formatted properly. Maybe because it's part of a bullet list.
 - Write a version of `append-element` that is idempotent and will only append the child if it doesn't already exist. A possible solution is given below:
 
 ```clojure
